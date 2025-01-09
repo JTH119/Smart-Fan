@@ -7,21 +7,18 @@
 2024.08.06 ~ 2024.08.09
 
 ## 기술 스택
-|H/W|
-|---|
-|Atmega128a|
-|Button|
-|DC Motor|
-|Motor Driver|
-|LCD|
-|FND|
-|Buzzer|
-
-|S/W|
-|---|
-|MicroChip Studio|
-|C언어|
-
+### H/W
+- Atmega128a
+- Button
+- DC Motor
+- Motor Driver
+- LCD
+- FND
+- Buzzer
+### S/W
+- MicroChip Studio
+- C언어
+---
 ## FSM
 ![FSM](./images/FSM.png)
 
