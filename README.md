@@ -23,7 +23,7 @@
 |C언어|
 
 ## FSM
-![alt text](image.png)
+![FSM](./images/FSM.png)
 
 ## 주요 기능
 - 풍속 제어 (미풍,중풍,강풍)
